@@ -29,7 +29,7 @@ The dataset used for this project contains the following attributes:
 | **CustomerID** | Unique customer identifier |
 | **Country** | Customer’s country |
 
-You can Find the DataSet here : https://www.kaggle.com/datasets/vijayuv/onlineretail?resource=download
+DataSet : https://www.kaggle.com/datasets/vijayuv/onlineretail?resource=download
 ---
 
 ## **📊 Techniques Used**
